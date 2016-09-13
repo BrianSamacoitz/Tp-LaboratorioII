@@ -1,0 +1,16 @@
+C:\Users\Brian\Desktop\Ejercicios Laboratorio\TP 1\bin\Debug\TP 1.exe.config
+C:\Users\Brian\Desktop\Ejercicios Laboratorio\TP 1\bin\Debug\TP 1.exe
+C:\Users\Brian\Desktop\Ejercicios Laboratorio\TP 1\bin\Debug\TP 1.pdb
+C:\Users\Brian\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP 1.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP_1.Form1.resources
+C:\Users\Brian\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP_1.Properties.Resources.resources
+C:\Users\Brian\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP 1.csproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP 1.exe
+C:\Users\Brian\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP 1.pdb
+C:\Users\alumno\Desktop\Ejercicios Laboratorio\TP 1\bin\Debug\TP 1.exe.config
+C:\Users\alumno\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP 1.exe
+C:\Users\alumno\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP 1.pdb
+C:\Users\alumno\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP 1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP_1.Form1.resources
+C:\Users\alumno\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP_1.Properties.Resources.resources
+C:\Users\alumno\Desktop\Ejercicios Laboratorio\TP 1\obj\Debug\TP 1.csproj.GenerateResource.Cache
